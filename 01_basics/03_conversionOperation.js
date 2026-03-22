@@ -26,3 +26,15 @@ let someNumber = 33
 let stringNumber = String(someNumber)
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
+
+// operations
+
+let value =3    
+let negVaule =-value
+//console.log(negVaule)
+
+let str1= "ankit"
+let str2="wankhede"
+
+console.log(str1 +str2)
+ 
